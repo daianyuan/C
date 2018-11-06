@@ -4,6 +4,7 @@
 int main()
 {
 	char buf[20] = "hello world!";
+	
 	int size = sizeof(buf);
 	
 	int len = strlen(buf);
